@@ -7,7 +7,9 @@ body {
 	color: #231F20;
 	overflow: auto
 }
-
+.text .say {
+	color: red !important;
+}
 a {
 	color: #000;
 	font-size: 14px;
