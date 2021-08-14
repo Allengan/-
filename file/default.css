@@ -7,8 +7,10 @@ body {
 	color: #231F20;
 	overflow: auto
 }
-.text .say {
+.text .code div .say {
 	color: red !important;
+	width: 100vw;
+	
 }
 a {
 	color: #000;
